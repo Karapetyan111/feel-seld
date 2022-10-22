@@ -1,0 +1,214 @@
+input{
+    background-color: rgba(92, 95, 44, 0.5);
+    margin-left: 20px;
+    border-radius: 10px 10px;
+    color: white;
+}
+body{
+    margin-left: 100px;
+}
+label{
+    color: yellow;
+}
+form{
+    padding: 30px 0 0 40px;
+}
+
+.select1{
+    padding: 0 5px 0 97px;
+    margin: 0px 0 3px 40px;
+    border-radius: 10px 10px;
+    background-color: rgba(94, 97, 46, 0.5);
+    color: white;
+}
+div .in2{
+    padding: 0 0px 0px 10px;
+    margin: 0px 0 3px 23px;
+}
+div .in3{
+    padding: 0 0 0 68px;
+    margin: 0 0 3px 24px;
+}
+div .in1{
+    margin: 0px 3px 3px 22px;
+    padding-right: 8px;
+}
+h1{
+    border: 5px groove black;
+    background-color: black;
+}
+div{
+    margin-left: 30px;
+}
+div img{
+    position:absolute;top: 100px;right: 600px;
+
+}
+.select2{
+    padding: 0 5px 0 101px;
+    margin: 0px 0 3px 13px;
+    border-radius: 10px 10px;
+    background-color: rgba(94, 97, 46, 0.5);
+    color: white;
+}
+.form3{
+   float: right;
+   margin-right: 86px;
+   
+}
+.sel1{
+    background-color:  rgba(92, 95, 44, 0.5);
+    position: absolute;
+    left: 20px;
+}
+.sel2{
+    background-color:  rgba(92, 95, 44, 0.5);
+    position: absolute;left: 20px;
+}
+div form .in5{
+   margin: 0 0 3px 52px;
+padding-left: 5px;
+padding-right: 1px;
+  }
+  div form .in8{
+ margin: 0 30px 3px 0;
+
+  }
+  .select3{
+    padding: 0 5px 0 97px;
+    margin: 0px 0 3px 40px;
+    border-radius: 10px 10px;
+    background-color: rgba(94, 97, 46, 0.5);
+    color: white;
+}
+  div form .in4{
+    margin: 0 0 3px 42px;
+ padding-left: 5px;
+  }
+  div form .in7{
+    margin: 0 0 3px 42px;
+    padding-left: 5px;
+
+  }
+  .select4{
+    padding: 0 5px 0 97px;
+    margin: 0px 0 3px 40px;
+    border-radius: 10px 10px;
+    background-color: rgba(94, 97, 46, 0.5);
+    color: white;
+}
+
+  div form .in9{
+    margin: 0 0 3px 27px;
+   
+  }
+  div form .in8{
+    margin: 0 0 3px 26px;
+    padding-left: 3px;
+  }
+  .form4{
+      float: top;
+ 
+  }
+  .leg1{
+      border: 5px solid yellow;
+      width: 100px;
+      border-radius: 10px 10px;
+      margin-left: 35px;
+  }
+  div form .i1{
+     padding-left: 8px;
+     margin-left: 18px;
+  }
+  .ll{
+      display: flex;
+      justify-content: center;
+      
+  }
+  fieldset{
+      margin-left: 20px;
+  }
+  .div7{
+      display: flex;
+      justify-content: center;
+  }
+  
+  .fo1{
+      display: flex;
+  }
+  .label10{
+      margin: 0 0 30px 0;
+  }
+  .field3{
+      background-color: rgba(5, 5, 5, 0.496);height: 200px;width: 900px; 
+border: 3px groove yellow;
+  }
+  div .select1{
+    margin: 0px 40px;
+  }
+  .se13{
+    margin-left: 13px;
+  }
+  .fildset2{
+      border: none;
+  }
+ 
+  h2{
+    margin-left: 60px;
+  }
+  
+ .divfil{
+     display: flex;
+ }
+
+.divbalsh{
+    display: flex;
+    color: yellow;
+margin-left: 300px;
+}
+.hmek{
+    padding-right: 200px;
+}
+.herku{
+    padding-right: 210px;
+}
+.hchors{
+    padding-right: 230px;
+}
+::-webkit-scrollbar{
+    background-color: rgba(92, 95, 44, 0.5);
+    border-radius: 10px 10px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgba(5, 5, 5, 0.496);
+    border-radius: 10px 10px;
+}
+.sss1{
+    margin-left: 200px;
+    border-radius: 10px 10px;
+    background-color: rgba(92, 95, 44, 0.5);
+    color: black;
+    padding-left: 30px;
+}
+.sss2{
+    margin-left: 160px;
+    border-radius: 10px 10px;
+    background-color: rgba(92, 95, 44, 0.5);
+    color: black;
+    padding-left: 30px;
+}
+.sss3{
+    margin-left: 190px;
+    border-radius: 10px 10px;
+    background-color: rgba(92, 95, 44, 0.5);
+    color: black;
+    padding-left: 32px;
+}
+.legendl{
+    border: 3px solid yellow;width: 80px;border-radius: 10px 10px;
+margin-left: 40px;
+}
+.legend3{
+    border: 3px solid yellow;width: 142px;border-radius: 10px 10px;
+}
+

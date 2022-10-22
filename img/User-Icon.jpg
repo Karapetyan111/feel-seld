@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!-- saved from url=(0058)file:///C:/Users/user/Desktop/mas/pordzarkumner/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./User-Icon_files/style.css">
+</head>
+<body style="background-image: url(img/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg);background-size: 100%;">
+<div style="background-color:   black;height: 200px;width: 1000px;">
+  
+<form action="file:///C:/Users/user/Desktop/mas/pordzarkumner/facebook.html">
+<label for="" style="color: yellow;" class="lab1">First name:</label>
+<input type="text" class="i1">
+<br>
+<label for="" style="color: yellow;" class="lab2">Last Name:</label>
+<input type="text" class="i2">
+<br>
+<label for="" style="color: yellow;" class="lab3">Birth Date:</label>
+<input type="date" class="i3">
+<br>
+<label for="" style="color: yellow;" class="lab4">Job Title: </label>
+<select class="sel5">
+  <option>Aprentice</option>
+</select>
+<br>
+<label for="">img</label>
+<input type="image">
+</form>
+
+   
+  
+
+</div>
+
+
+
+
+</body></html>
